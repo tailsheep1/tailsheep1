@@ -10,7 +10,7 @@
   
   <div>&nbsp;</div>
   
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++,Python, Django
   
 - 📫 How to reach me: qq:1454849754
 
