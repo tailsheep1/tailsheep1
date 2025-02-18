@@ -1,6 +1,6 @@
 ## Hi,Nice To Meet You!👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello!+This+is+tailsheep's+GitHub+page)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello!+This+is+Chovy's+GitHub+page)
 
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
@@ -10,7 +10,7 @@
   
   <div>&nbsp;</div>
   
-- 🌱 I’m currently learning C/C++,Python, Django
+- 🌱 I’m currently learning C/C++, Python, Django
   
 - 📫 How to reach me: qq:1454849754
 
